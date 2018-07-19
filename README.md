@@ -18,14 +18,14 @@ project part of the [**Front-End Web Developer Nanodegree Udacity**](https://eu.
 + Objective: Get to the water from the starting point
 + Avoid collision with the bugs that move horizontally, otherwise you will go back to starting point
 
-##### acknowledgments:
-Thanks to:
-+ (https://codepen.io/Momothepikachu/pen/aKrbyd?editors=1010) 
-+ (https://codepen.io/sean-anderson/pen/GdyzZg?editors=1010)
-+ (https://github.com/ThanCodes/udacity-classic-arcade-game-clone/blob/master/js/app.js)
-+ (https://github.com/jshanks24/Udacity-Arcade-Game/blob/master/js/app.js)
-+ (https://github.com/brenopolanski/udacity-classic-arcade-game-clone/blob/master/js/app.js)
-for sharing their code for the rest to get inspiration
+### Acknowledgments:
+Thanks to: <br/>
+https://codepen.io/Momothepikachu/pen/aKrbyd?editors=1010 <br/>
+https://codepen.io/sean-anderson/pen/GdyzZg?editors=1010 <br/>
+https://github.com/ThanCodes/udacity-classic-arcade-game-clone/blob/master/js/app.js <br/>
+https://github.com/jshanks24/Udacity-Arcade-Game/blob/master/js/app.js <br/>
+https://github.com/brenopolanski/udacity-classic-arcade-game-clone/blob/master/js/app.js <br/>
+for sharing their code for the rest to get inspiration <br/>
 
 ##### [Play the game here!](https://elena-in-code.github.io/classic-Arcade-game-clon/ "live sample the game")
 
