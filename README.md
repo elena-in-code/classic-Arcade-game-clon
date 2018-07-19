@@ -1,7 +1,7 @@
-# [Classic Arcade Game Clone]( "live sample the game")
+# [Classic Arcade Game Clone](https://elena-in-code.github.io/classic-Arcade-game-clon/ "live sample the game")
 
 
-(![arcadegamegif](https://user-images.githubusercontent.com/30567608/42944415-dfce0f4e-8b65-11e8-84ce-b4c978e88e76.gif "gif of the game")
+![arcadegamegif](https://user-images.githubusercontent.com/30567608/42944415-dfce0f4e-8b65-11e8-84ce-b4c978e88e76.gif "gif of the game")
 
 project part of the [**Front-End Web Developer Nanodegree Udacity**](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001).
 
@@ -27,6 +27,6 @@ Thanks to:
 + (https://github.com/brenopolanski/udacity-classic-arcade-game-clone/blob/master/js/app.js)
 for sharing their code for the rest to get inspiration
 
-##### [Play the game here!]( "live sample the game")
+##### [Play the game here!](https://elena-in-code.github.io/classic-Arcade-game-clon/ "live sample the game")
 
 ##### Hope you enjoy it!
